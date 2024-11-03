@@ -48,7 +48,7 @@
 		<repository>
 			<id>github</id>
         	<name>GitHub Mixednutz Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/mixednutz/activitypub-java-api</url>
+			<url>https://maven.pkg.github.com/mixednutz/activitypub-java-api-core</url>
 			<releases><enabled>true</enabled></releases>
        		<snapshots><enabled>true</enabled></snapshots>
 		</repository>
